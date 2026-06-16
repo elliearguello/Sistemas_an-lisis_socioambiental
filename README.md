@@ -10,7 +10,7 @@ Este repositorio contiene el prototipo funcional de un sistema de análisis pred
 * **Notebook de Jupyter:** Análisis exploratorio, conexión a datos reales de la REMMAQ, generación de datos sintéticos y entrenamiento del modelo de Regresión Lineal Múltiple.
 * **Script de Integración SQL (`integracion_db.py`):** Motor autocontenido en Python para el almacenamiento local de alertas ambientales y consultas usando SQLite.
 * **Informe Técnico (PDF):** Documento integral con la metodología, métricas del modelo (RMSE: 11.42) y reflexión ética sobre el sesgo de datos y la distribución del riesgo en la ciudad.
-* **Presentación:** ▶️ **[Haz clic aquí para ver el Video Explicativo](pendiente de subir)**
+* **Presentación:** ▶️ **Video adjunto **
 
 ## 🛠️ Herramientas Utilizadas
 * Python 3
